@@ -1,2 +1,2 @@
 # isPrime.py
-Python
+テキトーに作った素数判定
